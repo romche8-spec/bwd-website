@@ -6,7 +6,7 @@ Production-oriented bilingual (French/English) static agency website. Zero runti
 - Responsive dark Tech Blue design, custom vector logo, accessible mobile navigation, subtle reveal animation (reduced motion supported)
 - French and English language switch, with bilingual services, company profile and project brief
 - Portfolio reference to `www.lacongolaise.com` (replace mock illustration and verify portfolio permission before final publication)
-- Interactive budget and project request form; no backend or database; client copies summary and opens BWD WhatsApp at `https://wa.me/message/WN6UVZD7RWLTO1`
+- Interactive budget and project request form; no backend or database; client copies summary and opens BWD WhatsApp at `https://wa.me/243802782884`
 - `netlify.toml`, privacy-aware local form handling, SEO metadata and Open Graph SVG placeholder
 
 ## Preview locally (PowerShell)
